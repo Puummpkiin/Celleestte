@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Celleestte"
+# logo = "img/logo.png"
+description = "前端、设计和让自己眼前一亮的想法"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2006-01-02"
+
+[author]
+  name = "顧小靨"
+  image = "img/avatar.jpg"
+  # headline = "I'm only human"
+  bio = "不知名的小小网易云音乐人"
+  links = [
+    { github = "https://github.com/puummpkiin" },
+    { twitter = "https://twitter.com/puummpkiin" },
+    { instagram = "https://www.instagram.com/puummpkiin/" },
+    { Music = "https://music.163.com/#/artist?id=33911910&userid=262402719" },
+    { email = "puummpkiin@outlook.com" },
+   ]

@@ -1,0 +1,39 @@
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 10
+
+[[main]]
+  name = "Book Note"
+  pageRef = "booknote"
+  weight = 20
+
+[[main]]
+  name = "Project"
+  pageRef = "project"
+  weight = 30
+
+ [[main]]
+   name = "Now"
+   pageRef = "now"
+   weight = 40
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 50
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  identifier = "nihongo"
+  name = "Sounds"
+  url = "https://music.163.com/#/artist?id=33911910&userid=262402719"
+  weight = 10
+
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 20
