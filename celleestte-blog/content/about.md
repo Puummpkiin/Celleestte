@@ -8,7 +8,7 @@ showLikes: false
 ---
 
 ## About Me
-- 我是**顧小靨**，英文是 **Puummpkiin**。
+- 我是**顾小靥**，英文是 **Puummpkiin**。
 - 🪐 [Astrophysics](https://www.bilibili.com/video/BV1W64y1X7qt/?spm_id_from=333.337.search-card.all.click&vd_source=47180f3df1a6858b67024f0ec13af11e)学习中，备考Astrophysics M.D.
 - ✍🏻 从 **2022-07** 开始写博客 
     - [独立博客过时以后，为什么开始写博客了？](/blog/why-blog/)
