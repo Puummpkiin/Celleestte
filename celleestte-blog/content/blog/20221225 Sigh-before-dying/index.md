@@ -5,7 +5,7 @@ lastmod: 2022-12-30T23:55:00+08:00
 tags: ["create","diary"]
 description: ""
 summary: "叹息在临死之前，风铃声覆盖着田野，草地上牧人的留恋，是无以为继的喜悦"
-slug: Sigh before dying
+slug: Sigh-before-dying
 ---
 
 > 叹息在临死之前，风铃声覆盖着田野，草地上牧人的留恋，是无以为继的喜悦。  
